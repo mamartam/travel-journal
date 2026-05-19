@@ -4,7 +4,7 @@ function Header() {
   return (
     <>
       <header className="header">
-        <img className="header-img" src="GlobeImg" alt="Globe Image" />
+        <img className="header-img" src={GlobeImg} alt="Globe Image" />
         <h1 className="header-titile">my travel journal.</h1>
       </header>
     </>
@@ -12,4 +12,3 @@ function Header() {
 }
 
 export default Header;
-// "C:\Users\marta\front-end\react\react-test\src\assets\globe.png"
