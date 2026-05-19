@@ -8,7 +8,7 @@ Travel Journal is a page that displays a list of different places. Instead of ha
 ### Tech Stack:
 * React (Functional Components)
 * JavaScript (ES6+)
-* CSS / Scss
+* CSS
 
 ---
 
