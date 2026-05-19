@@ -1,4 +1,4 @@
-🌍 Travel Journal (React Practice)
+# 🌍 Travel Journal (React Practice)
 
 A simple web application built as part of the React course on Scrimba. The main goal of this project was to practice the core concepts of React, focusing on component reusability, data driving layouts, and dynamic rendering.
 
